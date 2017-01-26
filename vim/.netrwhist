@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/pecked/Code/biopharma/docker/ike'
+let g:netrw_dirhist_2='/Users/pecked/Code/gsk/assay/docker'
+let g:netrw_dirhist_3='/Users/pecked/Code/biopharma/docker/nginx'
+let g:netrw_dirhist_4='/Users/pecked/.vim'
+let g:netrw_dirhist_5='/Users/pecked/Code/gsk-studies/scripts'
